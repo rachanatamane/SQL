@@ -1,11 +1,15 @@
-#Date created
-#30 April 2019
+Date created
 
-#Project Title
-#Programming for Data Science Nanodegree Program
+30 April 2019
 
-#Description
-#SQL queries for Sakila Movie Database
+Project Title
 
-#Files used
-#Text files with SQL commands
+Programming for Data Science Nanodegree Program
+
+Description
+
+SQL queries for Sakila Movie Database
+
+Files used
+
+Text files with SQL commands
